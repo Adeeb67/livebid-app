@@ -156,15 +156,21 @@ PORT=5000
 
 # 📸 APPLICATION PREVIEW
 
-### Login Screen
-(Add Screenshot Here)
+## 🔐 Login Screen
 
-### Auction Dashboard
-(Add Screenshot Here)
+<img width="900" alt="Login" src="screenshots/login.png" />
 
-### Live Bidding
-(Add Screenshot Here)
+---
 
+## 📊 Dashboard
+
+<img width="900" alt="Dashboard" src="screenshots/dashboard.png" />
+
+---
+
+## 💰 Live Auction / Bidding
+
+<img width="900" alt="Auction" src="screenshots/auction.png" />
 ---
 
 # 🔮 FUTURE IMPROVEMENTS
