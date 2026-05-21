@@ -158,21 +158,19 @@ PORT=5000
 
 ## 🔐 Login Screen
 
-<img width="900" alt="Login" src="screenshots/login.png" />
+![Login](./login.png)
 
 ---
 
 ## 📊 Dashboard
 
-<img width="900" alt="Dashboard" src="screenshots/dashboard.png" />
+![Dashboard](./Dashboard.png)
 
 ---
 
 ## 💰 Live Auction / Bidding
 
-<img width="900" alt="Auction" src="screenshots/auction.png" />
----
-
+![Auction](./Auctions.png)
 # 🔮 FUTURE IMPROVEMENTS
 
 - Payment Gateway Integration
