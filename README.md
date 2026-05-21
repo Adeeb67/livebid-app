@@ -25,13 +25,13 @@ The platform supports **real-time bid updates using Socket.IO**, secure authenti
 # 🌐 LIVE DEPLOYMENT
 
 ### 🔗 Live Website
-PASTE_YOUR_VERCEL_URL
+(https://livebid-app.vercel.app)
 
 ### ⚙️ Backend API
-PASTE_YOUR_RENDER_URL
+(https://livebid-app.onrender.com)
 
 ### 💻 GitHub Repository
-PASTE_YOUR_GITHUB_REPO
+https://github.com/Adeeb67/livebid-app
 
 ---
 
@@ -107,7 +107,7 @@ livebid-app/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_URL
+git clone https://github.com/Adeeb67/livebid-app.git
 ```
 
 ---
@@ -187,7 +187,7 @@ PORT=5000
 
 **Full Stack Developer | MERN Stack | Real-Time Systems**
 
-GitHub: YOUR_GITHUB_PROFILE
+GitHub: (https://github.com/Adeeb67)
 
 ---
 
